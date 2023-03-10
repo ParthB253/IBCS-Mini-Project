@@ -1,4 +1,4 @@
-<h5>*A tool to help organise Exam questions and papers in an orderly manner.*</h5>
+<h5><I>A tool to help organise Exam questions and papers in an orderly manner.</I></h5>
 
 <h3>Features include:</h3>
 - Viewing all questions and papers entered into the database.</br>
